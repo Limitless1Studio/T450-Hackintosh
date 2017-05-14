@@ -2,4 +2,3 @@
 cd ~/desktop/x250/ALC3232
 sudo make
 sudo make install
-sudo touch /Library/Extensions && sudo kextcache -u /
